@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Solution0107",
+            "request": "launch",
+            "mainClass": "exchanger.Solution0107",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Solution0106",
             "request": "launch",
             "mainClass": "semaphore.Solution0106",
