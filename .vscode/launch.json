@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Solution0109",
+            "request": "launch",
+            "mainClass": "reentrantlock.Solution0109",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Solution0108",
             "request": "launch",
             "mainClass": "phaser.Solution0108",
