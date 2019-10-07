@@ -45,6 +45,8 @@ class Philosopher extends Thread {
         } catch (InterruptedException e) {
             System.out.println("философ " + id + " переел");
         }
+
+
     
     }
 
